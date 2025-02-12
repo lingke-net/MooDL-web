@@ -9,6 +9,8 @@
 <img Height="100" Width="100" src="https://s21.ax1x.com/2024/11/20/pAW299H.png"/>
 
 # MooDL网页前端
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flingke-net%2FMooDL-web.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flingke-net%2FMooDL-web?ref=badge_shield)
+
 
 
 ### 新一代Minecraft资源平台
@@ -47,3 +49,7 @@ npm build
 ## 开源协议
 
 这个项目在MIT许可下分发
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flingke-net%2FMooDL-web.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flingke-net%2FMooDL-web?ref=badge_large)
